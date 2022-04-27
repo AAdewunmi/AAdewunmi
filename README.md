@@ -1,6 +1,6 @@
-### Hi 👋, I'm Adrian
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/SSIvanov19/ssivanov19/master/gifts/coder.gif" />
+
+### Hi 👋, I'm Adrian
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
