@@ -1,4 +1,4 @@
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/SSIvanov19/ssivanov19/master/gifts/coder.gif" />
+<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 ### Hi 👋, I'm Adrian
 
