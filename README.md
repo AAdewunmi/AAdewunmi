@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on **Open Source Project(s)**
 - 💬 Ask me about Digital Health (Health Informatics) / Health Data Science
 - 📫 How to reach me: aderemiadewumi@yahoo.co.uk
+- ⚡ Fun fact: I ❤️ "The Matrix" 💊
 
 <!--
 **AAdewunmi/AAdewunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
