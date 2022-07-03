@@ -4,7 +4,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project(s)**
 - 💬 Ask me about Digital Health (Health Informatics) / Health Data Science
-- 📫 How to reach me: aderemiadewumi@yahoo.co.uk
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
 
 <!--
