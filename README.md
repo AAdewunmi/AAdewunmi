@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Adrian
 
 - 👯 I’m looking to collaborate on **Open Source Project(s)**
-- 💬 Ask me about Digital Health (Health Informatics) / Health Data Science
+- 💬 Ask me about Artificial Intelligence / Health Informatics / Health Data Science
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
 
 <!--
