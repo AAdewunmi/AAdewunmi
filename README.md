@@ -5,6 +5,16 @@
 - 👯 I’m looking to collaborate on **Open Source Project(s)**
 - 💬 Ask me about Artificial Intelligence / Health Informatics 
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
+- 📚 Useful Resources: 
+
+(a) **Open Source Project(s)**
+
+1. [How to Contribute to Open Source Projects on Github (pull requests) ](https://www.youtube.com/watch?v=x24fOAPclL4)
+2. [GitHub - Contributing to a Project ](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
+3. [Contributing to projects: Learn how to contribute to a project through forking. ](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+
+
+
 
 <!--
 **AAdewunmi/AAdewunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
