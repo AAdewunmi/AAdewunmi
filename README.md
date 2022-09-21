@@ -7,7 +7,12 @@
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
 - 📚 Useful Resources: 
 
-(a) **Open Source Project(s)**
+(a) **Programming**
+
+1. [How To Think Like A Programmer ](https://www.youtube.com/watch?v=azcrPFhaY9k)
+1. [Think Like a Programmer ](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
+
+(b) **Open Source Project(s)**
 
 1. [How to Contribute to Open Source Projects on Github (pull requests) ](https://www.youtube.com/watch?v=x24fOAPclL4)
 2. [GitHub - Contributing to a Project ](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
