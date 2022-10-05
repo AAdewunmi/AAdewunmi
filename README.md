@@ -16,7 +16,7 @@
 5. [Scott Berkun ](https://scottberkun.com/blog/)
 6. [Gergely Orosz ](https://blog.pragmaticengineer.com/author/gergely/)
 
-(b) **Programming**
+(b) **Programming Problem Solving Skills**
 
 1. [How To Think Like A Programmer ](https://www.youtube.com/watch?v=azcrPFhaY9k)
 2. [Think Like a Programmer ](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
