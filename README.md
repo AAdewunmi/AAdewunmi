@@ -7,12 +7,22 @@
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
 - 📚 Useful Resources: 
 
-(a) **Programming**
+(a) **Software Engineering Blogs (Must Read!)**
+
+1. [Martin Fowler ](https://martinfowler.com)
+2. [David Walsh ](https://davidwalsh.name)
+3. [Joel Spolsky ](https://www.joelonsoftware.com)
+4. [Jeff Atwood ](https://blog.codinghorror.com)
+5. [Scott Berkun ](https://scottberkun.com/blog/)
+6. [Gergely Orosz ](https://blog.pragmaticengineer.com/author/gergely/)
+
+(b) **Programming**
 
 1. [How To Think Like A Programmer ](https://www.youtube.com/watch?v=azcrPFhaY9k)
-1. [Think Like a Programmer ](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
+2. [Think Like a Programmer ](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
+3.  [15 Problem Solving Steps to Improve Your Development Skills ](https://dev.to/marktecher/15-problem-solving-steps-to-improve-your-development-skills-1hak)
 
-(b) **Open Source Project(s)**
+(c) **Open Source Projects (How To)**
 
 1. [How to Contribute to Open Source Projects on Github (pull requests) ](https://www.youtube.com/watch?v=x24fOAPclL4)
 2. [GitHub - Contributing to a Project ](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
