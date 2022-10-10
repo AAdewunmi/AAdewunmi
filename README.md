@@ -28,6 +28,10 @@
 2. [GitHub - Contributing to a Project ](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 3. [Contributing to projects: Learn how to contribute to a project through forking. ](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
+(d) **Open Source and Artificial Intelligence**
+
+1. [How Open Source is eating AI (Why the best delivery mechanism for AI is not APIs) ](https://lspace.swyx.io/p/open-source-ai?utm_source=profile&utm_medium=reader2)
+
 
 
 
