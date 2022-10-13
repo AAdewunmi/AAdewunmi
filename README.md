@@ -5,7 +5,10 @@
 - 👯 I’m looking to collaborate on **Open Source Project(s)**
 - 💬 Ask me about Artificial Intelligence / Health Informatics 
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
-- 📚 Useful Resources: 
+
+----------
+
+### Useful Resources: 
 
 (a) **Software Engineering Blogs (Must Read!)**
 
@@ -16,11 +19,15 @@
 5. [Scott Berkun ](https://scottberkun.com/blog/)
 6. [Gergely Orosz ](https://blog.pragmaticengineer.com/author/gergely/)
 
+----------
+
 (b) **Problem Solving Skills for Software Engineering**
 
 1. [How To Think Like A Programmer ](https://www.youtube.com/watch?v=azcrPFhaY9k)
 2. [Think Like a Programmer ](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
 3.  [15 Problem Solving Steps to Improve Your Development Skills ](https://dev.to/marktecher/15-problem-solving-steps-to-improve-your-development-skills-1hak)
+
+----------
 
 (c) **Open Source Projects (How To)**
 
@@ -28,12 +35,13 @@
 2. [GitHub - Contributing to a Project ](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 3. [Contributing to projects: Learn how to contribute to a project through forking. ](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
+----------
+
 (d) **Open Source and Artificial Intelligence**
 
 1. [How Open Source is eating AI (Why the best delivery mechanism for AI is not APIs) ](https://lspace.swyx.io/p/open-source-ai?utm_source=profile&utm_medium=reader2)
-
-
-
+2. [The End of Programming (The end of classical Computer Science is coming, and most of us are dinosaurs waiting for the meteor to hit.) ](https://levelup.gitconnected.com/the-end-of-programming-6e3f7ff0d8b4)
+----------
 
 <!--
 **AAdewunmi/AAdewunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,6 +56,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📚 Resources ...
 -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadewunmi&show_icons=true&locale=en" alt="aadewunmi" /></p>
