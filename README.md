@@ -12,12 +12,8 @@
 
 (a) **Software Engineering Blogs (Must Read!)**
 
-1. [Martin Fowler ](https://martinfowler.com)
-2. [David Walsh ](https://davidwalsh.name)
-3. [Joel Spolsky ](https://www.joelonsoftware.com)
-4. [Jeff Atwood ](https://blog.codinghorror.com)
-5. [Scott Berkun ](https://scottberkun.com/blog/)
-6. [Gergely Orosz ](https://blog.pragmaticengineer.com/author/gergely/)
+
+| [Martin Fowler ](https://martinfowler.com) | [David Walsh ](https://davidwalsh.name)| [Joel Spolsky ](https://www.joelonsoftware.com) | [Jeff Atwood ](https://blog.codinghorror.com) | [Scott Berkun ](https://scottberkun.com/blog/)| [Gergely Orosz ](https://blog.pragmaticengineer.com/author/gergely/) |
 
 ----------
 
