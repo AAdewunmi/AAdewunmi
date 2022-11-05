@@ -2,9 +2,17 @@
 
 ### Hi 👋, I'm Adrian
 
-- 👯 I’m looking to collaborate on **Open Source Project(s)**
-- 💬 Ask me about Artificial Intelligence / Health Informatics 
+- 👯 I’m interested in:
+
+i. Software Engineering
+
+ii. Open Source Project(s)
+
+- 🥇 I’m working towards becoming a **Java Champion**
+
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
+
+![Screenshot 2022-11-05 at 09 34 33](https://user-images.githubusercontent.com/15172744/200113374-252456d9-8734-4824-bda2-332e5641c0ed.png)
 
 ----------
 
