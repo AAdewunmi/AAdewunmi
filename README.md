@@ -8,7 +8,7 @@ i. **Software engineering** as an engineering discipline, and
 
 ii. contributing to **Open Source Projects** (Preferred Programming Languages: Java, Python and JavaScript).
 
-- 🥇 One of my career goals is to become a **Java Champion and Developer Advocate**
+- 🥇 One of my career goals is to become a **Java Champion and Developer Advocate**.
 
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
 
