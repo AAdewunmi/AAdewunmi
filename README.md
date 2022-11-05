@@ -4,11 +4,11 @@
 
 - 👯 I’m interested in:
 
-i. Software Engineering
+i. **Software engineering** as an engineering discipline, and 
 
-ii. Open Source Project(s)
+ii. contributing to **Open Source Projects** (Preferred Programming Languages: Java, Python and JavaScript).
 
-- 🥇 I’m working towards becoming a **Java Champion**
+- 🥇 One of my career goals is to become a **Java Champion and Developer Advocate**
 
 - ⚡ Fun fact: I ❤️ "The Matrix" 💊
 
