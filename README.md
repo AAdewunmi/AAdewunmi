@@ -8,12 +8,6 @@ i. **Software engineering** as an engineering discipline, and
 
 ii. contributing to **Open Source Projects** (Preferred Programming Languages: Java, Python and JavaScript).
 
-- 🥇 One of my career goals is to become a **Java Champion and Developer Advocate**.
-
-- ⚡ Fun fact: I ❤️ "The Matrix" 💊
-
-![Screenshot 2022-11-05 at 09 34 33](https://user-images.githubusercontent.com/15172744/200113374-252456d9-8734-4824-bda2-332e5641c0ed.png)
-
 ----------
 
 ### Useful Resources: 
@@ -61,6 +55,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📚 Resources ...
+- 🥇 One of my career goals is to become a **Java Champion and Developer Advocate**.
+- ⚡ Fun fact: I ❤️ "The Matrix" 💊
+![Screenshot 2022-11-05 at 09 34 33](https://user-images.githubusercontent.com/15172744/200113374-252456d9-8734-4824-bda2-332e5641c0ed.png)
+
 -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadewunmi&show_icons=true&locale=en" alt="aadewunmi" /></p>
