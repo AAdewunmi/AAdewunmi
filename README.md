@@ -10,6 +10,7 @@ ii. contributing to **Open Source Projects** (Preferred Programming Languages: J
 
 ----------
 
+<!--
 ### Useful Resources: 
 
 (a) **Software Engineering Blogs (Must Read!)**
@@ -40,7 +41,7 @@ ii. contributing to **Open Source Projects** (Preferred Programming Languages: J
 1. [How Open Source is eating AI (Why the best delivery mechanism for AI is not APIs) ](https://lspace.swyx.io/p/open-source-ai?utm_source=profile&utm_medium=reader2)
 2. [The End of Programming (The end of classical Computer Science is coming, and most of us are dinosaurs waiting for the meteor to hit.) ](https://levelup.gitconnected.com/the-end-of-programming-6e3f7ff0d8b4)
 ----------
-
+-->
 <!--
 **AAdewunmi/AAdewunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
