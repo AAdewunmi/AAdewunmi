@@ -23,8 +23,8 @@ ii. contributing to **Open Source Projects** (Preferred Programming Languages: J
 
 1. [How To Think Like A Programmer ](https://www.youtube.com/watch?v=azcrPFhaY9k)
 2. [Think Like a Programmer ](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
-3.  [15 Problem Solving Steps to Improve Your Development Skills ](https://dev.to/marktecher/15-problem-solving-steps-to-improve-your-development-skills-1hak)
-
+3. [15 Problem Solving Steps to Improve Your Development Skills ](https://dev.to/marktecher/15-problem-solving-steps-to-improve-your-development-skills-1hak)
+4. [How to develop strong problem solving skills as a software developer ](https://dev.to/nathan20/how-to-develop-strong-problem-solving-skills-as-a-software-developer-25nb)
 ----------
 
 (c) **Open Source Projects (How To)**
