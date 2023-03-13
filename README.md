@@ -32,6 +32,7 @@ ii. contributing to **Open Source Projects** (Preferred Programming Languages: J
 1. [How to Contribute to Open Source Projects on Github (pull requests) ](https://www.youtube.com/watch?v=x24fOAPclL4)
 2. [GitHub - Contributing to a Project ](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 3. [Contributing to projects: Learn how to contribute to a project through forking. ](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+4. [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
 ----------
 
