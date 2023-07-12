@@ -41,6 +41,8 @@ ii. contributing to **Open Source Projects** (Preferred Programming Languages: J
 1. [How Open Source is eating AI (Why the best delivery mechanism for AI is not APIs) ](https://lspace.swyx.io/p/open-source-ai?utm_source=profile&utm_medium=reader2)
 2. [The End of Programming (The end of classical Computer Science is coming, and most of us are dinosaurs waiting for the meteor to hit.) ](https://levelup.gitconnected.com/the-end-of-programming-6e3f7ff0d8b4)
 3. [Open Source in Artificial Intelligence (Why it matters to give away your software for free)](https://francesco-ai.medium.com/open-source-in-artificial-intelligence-b306f1e359a3)
+4. [The Golden Age of Open Source in AI Is Coming to an End (NC, SA, GPL, and other acronyms you don’t want to see in the open source license of the model you are using)](https://medium.com/towards-data-science/the-golden-age-of-open-source-in-ai-is-coming-to-an-end-7fd35a52b786)
+
 ----------
 <!---->
 <!--
