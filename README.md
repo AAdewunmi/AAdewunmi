@@ -44,6 +44,16 @@ ii. contributing to **Open Source Projects** (Preferred Programming Languages: J
 4. [The Golden Age of Open Source in AI Is Coming to an End (NC, SA, GPL, and other acronyms you don’t want to see in the open source license of the model you are using)](https://medium.com/towards-data-science/the-golden-age-of-open-source-in-ai-is-coming-to-an-end-7fd35a52b786)
 
 ----------
+
+(e) **Open Source and Machine Learning**
+
+1. [The need for open source software in machine learning](https://www.jmlr.org/papers/volume8/sonnenburg07a/sonnenburg07a.pdf)
+----------
+
+(f) **Open Source and Natural Language Processing**
+
+----------
+
 <!---->
 <!--
 **AAdewunmi/AAdewunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
