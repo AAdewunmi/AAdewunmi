@@ -10,50 +10,6 @@ ii. contributing to **Open Source Projects** (Preferred Programming Languages: J
 
 ----------
 
-### Useful Resources: 
-
-(a) **Software Engineering Blogs (Must Read!)**
-
-
-| [Martin Fowler ](https://martinfowler.com) | [David Walsh ](https://davidwalsh.name)| [Joel Spolsky ](https://www.joelonsoftware.com) | [Jeff Atwood ](https://blog.codinghorror.com) | [Scott Berkun ](https://scottberkun.com/blog/)| [Gergely Orosz ](https://blog.pragmaticengineer.com/author/gergely/) |
-
-----------
-
-(b) **Problem Solving Skills for Software Engineering**
-
-1. [How To Think Like A Programmer ](https://www.youtube.com/watch?v=azcrPFhaY9k)
-2. [Think Like a Programmer ](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
-3. [15 Problem Solving Steps to Improve Your Development Skills ](https://dev.to/marktecher/15-problem-solving-steps-to-improve-your-development-skills-1hak)
-4. [How to develop strong problem solving skills as a software developer ](https://dev.to/nathan20/how-to-develop-strong-problem-solving-skills-as-a-software-developer-25nb)
-----------
-
-(c) **Open Source Projects (How To)**
-
-1. [How to Contribute to Open Source Projects on Github (pull requests) ](https://www.youtube.com/watch?v=x24fOAPclL4)
-2. [GitHub - Contributing to a Project ](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
-3. [Contributing to projects: Learn how to contribute to a project through forking. ](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
-4. [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
-
-----------
-
-(d) **Open Source and Artificial Intelligence**
-
-1. [How Open Source is eating AI (Why the best delivery mechanism for AI is not APIs) ](https://lspace.swyx.io/p/open-source-ai?utm_source=profile&utm_medium=reader2)
-2. [The End of Programming (The end of classical Computer Science is coming, and most of us are dinosaurs waiting for the meteor to hit.) ](https://levelup.gitconnected.com/the-end-of-programming-6e3f7ff0d8b4)
-3. [Open Source in Artificial Intelligence (Why it matters to give away your software for free)](https://francesco-ai.medium.com/open-source-in-artificial-intelligence-b306f1e359a3)
-4. [The Golden Age of Open Source in AI Is Coming to an End (NC, SA, GPL, and other acronyms you don’t want to see in the open source license of the model you are using)](https://medium.com/towards-data-science/the-golden-age-of-open-source-in-ai-is-coming-to-an-end-7fd35a52b786)
-
-----------
-
-(e) **Open Source and Machine Learning**
-
-1. [The need for open source software in machine learning](https://www.jmlr.org/papers/volume8/sonnenburg07a/sonnenburg07a.pdf)
-----------
-
-(f) **Open Source and Natural Language Processing**
-
-----------
-
 <!---->
 <!--
 **AAdewunmi/AAdewunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
