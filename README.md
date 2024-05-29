@@ -6,6 +6,9 @@
 
 [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadewunmi)](https://github.com/aadewunmi/github-readme-stats)
 
+- Leetcode Stats:
+
+[![Adrian's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Adrian_A)](https://github.com/Adrian_A/leetcode-stats)
 
 - My Skills:
 
