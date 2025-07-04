@@ -2,8 +2,6 @@
 
 ### Hi 👋, I'm Adrian
 
-- I'm a **Software Engineer** from 🇬🇧!
-
 [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadewunmi)](https://github.com/aadewunmi/github-readme-stats)
 
 <!--
