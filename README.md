@@ -1,8 +1,9 @@
 
 
-### Hi 👋, I'm Adrian, a Software Engineer from the 🇬🇧 
+Hi 👋, I'm Adrian, a Software Engineer from the 🇬🇧 
 
-### Let's connect if you are interested in all things related to Computer Science 😎 
+Let's connect ... 😎 
+
 <!--
 [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadewunmi)](https://github.com/aadewunmi/github-readme-stats)
 
