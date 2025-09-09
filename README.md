@@ -1,6 +1,6 @@
 
 
-Hi 👋, I'm Adrian, a Software Engineer from the 🇬🇧 
+Hi 👋, I'm Adrian, from the 🇬🇧, transitioning into Data Science!
 
 Let's connect ... 😎 
 
