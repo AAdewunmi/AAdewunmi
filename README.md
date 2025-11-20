@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Adrian, from the 🇬🇧
 
-Graduate / Junior Data Scientist | MSc Computer Science (2026) | Python • SQL • Machine Learning • Data Analytics | Building End-to-End AI Projects. 
+Data Scientist | MSc Computer Science (2026) | Python • SQL • Machine Learning • Data Analytics | Building End-to-End AI Projects. 
 
 Let's connect ... 😎 
 
