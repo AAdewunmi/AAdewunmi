@@ -1,43 +1,29 @@
 
 
-Hi 👋, I'm Adrian, from the 🇬🇧
+# 👋 Hi, I'm Adrian Adewunmi
 
-Data Scientist | MSc Computer Science (2026) | Python • SQL • Machine Learning • Data Analytics | Building End-to-End AI Projects. 
+**Graduate / Junior Data Scientist | PhD Computer Science | MSc Health Informatics**  
+Building practical, research-informed AI & Machine Learning projects in Python, SQL, and modern AI frameworks.
 
-Let's connect ... 😎 
+---
 
-<!--
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadewunmi)](https://github.com/aadewunmi/github-readme-stats)
+> **Turning research insight into real-world impact through Data Science, Machine Learning, and modern software engineering.**
 
+---
 
-- Leetcode Stats:
+### 🧭 About Me
+I’m a **PhD-trained Computer Scientist** returning to the tech and analytics field after a successful early career in academic research.  
+My background spans **artificial intelligence, quantitative analysis, health informatics, and software engineering**, now applied to **data science and machine learning projects** using **Python, SQL, TensorFlow, PyTorch, and scikit-learn**.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Adrian_A?theme=light&font=Abel&ext=heatmap)
+I’m currently completing a **6-month, industry-aligned Data Science Bootcamp (Dec. 2025 – May 2026)** focused on developing reproducible ML pipelines, deploying web apps with Flask/Django, and visualising insights with Plotly and PostgreSQL.
 
-- My Skills:
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mongodb,express,react,nodejs,js,jquery,java,spring,python,mysql,sqlite,linux,aws,docker,git,github,eclipse,idea,visualstudio,postman,stackoverflow)](https://skillicons.dev)
+### ⚙️ Tech Stack
+**Languages:** Python, SQL  
+**Libraries & Frameworks:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Flask, Django  
+**Tools:** Docker, Git, GitHub Actions, Jupyter, PostgreSQL, Plotly  
 
--->
-<!---->
-<!--
-**AAdewunmi/AAdewunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📚 Resources ...
-- 🥇 Goals: ...
-- ⚡ Fun fact: ...
-
-
-
-
-
+⭐ **Current Focus:** Graduate Data Science • Machine Learning Engineering • Research Software Engineering
