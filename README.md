@@ -1,30 +1,44 @@
 
+# 👋 Hi, I’m Adrian
 
-# 👋 Hi, I'm Adrian Adewunmi
+I use GitHub as my workspace for building, documenting, and improving software projects in public.
 
-**Graduate / Junior Data Scientist | PhD Computer Science | MSc Health Informatics**  
-Building practical, research-informed AI & Machine Learning projects in Python, SQL, and modern AI frameworks.
+---
+## Core Stack
+- **Backend:** Python, Django, REST APIs
+- **Database:** PostgreSQL
+- **Engineering:** Docker, Git, CI/CD (GitHub Actions), pytest
+- **Optional:** Flask, basic ML integration (scikit-learn / TensorFlow)
+---
+
+## What I’m building
+Most of my projects are Python-first and web-focused, often using Django and PostgreSQL. I’m especially interested in the parts of engineering that make a codebase easier to trust and change over time.
 
 ---
 
-> **Turning research insight into real-world impact through Data Science, Machine Learning, and modern software engineering.**
+## What I value in code
+- clear structure and readable modules
+- tests that cover the important paths
+- small, frequent improvements rather than big rewrites
+- documentation that helps someone else run the project quickly
 
 ---
 
-### 🧭 About Me
-I’m a **PhD-trained Computer Scientist** returning to the tech and analytics field after a successful early career in academic research.  
+## Open to collaboration
+I’m happy to connect with people building similar things and I’m open to:
+- contributing to open-source issues (bug fixes, tests, docs, small features)
+- collaborating on small project ideas
+- pairing on code reviews or architecture trade-offs
+- feedback on repo structure, testing strategy, and CI setups
 
-My background spans **artificial intelligence, quantitative analysis, health informatics, and software engineering**, now applied to **data science and machine learning projects** using **Python, SQL, TensorFlow, PyTorch, and scikit-learn**.
-
-I’m currently completing a **6-month, industry-aligned Data Science Bootcamp (Dec. 2025 – May 2026)** focused on developing reproducible ML pipelines, deploying web apps with Flask/Django, and visualising insights with Plotly and PostgreSQL.
-
----
-
-### ⚙️ Tech Stack
-**Languages:** Python, SQL  
-**Libraries & Frameworks:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Flask, Django  
-**Tools:** Docker, Git, GitHub Actions, Jupyter, PostgreSQL, Plotly  
+If you’re working on a Python/Django project and want another set of eyes, feel free to reach out.
 
 ---
 
-⭐ **Current Focus:** Graduate Data Science • Machine Learning Engineering • Research Software Engineering
+## Find me
+- GitHub: https://github.com/AAdewunmi
+- LinkedIn: https://linkedin.com/in/aaadewunmi
+
+
+
+
