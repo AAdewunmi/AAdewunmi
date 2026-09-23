@@ -5,11 +5,12 @@ I use GitHub as my workspace for building, documenting, and improving software p
 
 ---
 ## Core Stack
-- **Backend:** Python, Django, REST APIs
+- **Backend:** Python, Django, Flask, REST APIs
 - **Frontend:** HTMX, Tailwind CSS, Alpine.js, HTML5/CSS3
 - **Database:** PostgreSQL
 - **Engineering:** Docker, Git, CI/CD (GitHub Actions), pytest
-- **Optional:** Flask, basic ML integration (scikit-learn / TensorFlow)
+- **ML:** scikit-learn / TensorFlow
+- **Enterprise foundation:** Java, Spring Boot, Thymeleaf, HTMX, Tailwind CSS, Spring Security, Hibernate/JPA, JUnit
 ---
 
 ## What I’m building
