@@ -10,7 +10,7 @@ I use GitHub as my workspace for building, documenting, and improving software p
 - **Database:** PostgreSQL
 - **Engineering:** Docker, Git, CI/CD (GitHub Actions), pytest
 - **ML:** scikit-learn / TensorFlow
-- **Enterprise foundation:** Java, Spring Boot, Thymeleaf, HTMX, Tailwind CSS, Spring Security, Hibernate/JPA, JUnit
+- **Enterprise foundations:** Java, Spring Boot, Thymeleaf, HTMX, Tailwind CSS, Spring Security, Hibernate/JPA, JUnit
 ---
 
 ## What I’m building
