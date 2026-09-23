@@ -6,6 +6,7 @@ I use GitHub as my workspace for building, documenting, and improving software p
 ---
 ## Core Stack
 - **Backend:** Python, Django, REST APIs
+- **Frontend:** HTMX, Tailwind CSS, Alpine.js, HTML5/CSS3
 - **Database:** PostgreSQL
 - **Engineering:** Docker, Git, CI/CD (GitHub Actions), pytest
 - **Optional:** Flask, basic ML integration (scikit-learn / TensorFlow)
